@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SrGiL11
-- 👀 I’m interested in Front-end, UX & Design, Mobile
-- 🌱 I’m currently learning Mobile, UX & Design
-- 💞️ I’m looking to collaborate on projects with a focus on the Front-end and having the possibility in others to grow as an excellent professional.
+- 👋 Hi, my name is Victor Gil and I’m @SrGiL11
+- 👀 I'm interested in be a professional Full Stack and obtain an overview in UX & Design and, in the future, be developer mobile.
+- 🌱 I’m currently learning Front-End and Back-End.
+- 💞️ I'm looking to collaborate on projects to develop my knowledge and that can challenge me.
 - 📫 How to reach me Twitter @SrGiL11 and Instagram @srgil11
 
 <!---
