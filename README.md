@@ -14,7 +14,7 @@ Sou de Manaus/AM. Comecei a paixão por tecnologia e programção alguns meses a
 sou uma pessoa curiosa (bastante) :stuck_out_tongue:
 
 Me aventurei algumas vezes em codar algumas coisas, mas nada grandioso e oficial</br>
-(espextativas para o futuro) :star_struck:
+(espectativas para o futuro) :star_struck:
 
 ### :hammer_and_wrench: Tools 
 <div>
@@ -41,7 +41,7 @@ Me aventurei algumas vezes em codar algumas coisas, mas nada grandioso e oficial
 
 </br>
 
-### :books: Aprendendo
+### :books: Learning
 <div style="display: inline-block"><br>
   <img alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
