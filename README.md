@@ -10,11 +10,11 @@
 
 Me chamo Victor, mas podem me chamar de Gil :wink:
 
-Sou de Manaus/AM. Comecei a paixão por tecnologia e programção alguns meses atrás, </br>
+Sou de Manaus/AM. Comecei a paixão por tecnologia e programação alguns meses atrás, </br>
 sou uma pessoa curiosa (bastante) :stuck_out_tongue:
 
-Me aventurei algumas vezes em codar algumas coisas, mas nada grandioso e oficial</br>
-(espectativas para o futuro) :star_struck:
+Me aventurei por vezes em codar algumas coisas, mas nada grandioso e oficial</br>
+(muitas expectativas para o futuro) :star_struck:
 
 ### :hammer_and_wrench: Tools 
 <div>
