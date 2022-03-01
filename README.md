@@ -17,7 +17,7 @@ Me chamo Victor, mas podem me chamar de Gil :wink: </br>
 
 
 Me aventurei por vezes em codar, mas nada grandioso e oficial</br>
-(muitas expectativas para o futuro)
+(muitas expectativas para o futuro) :man_technologist:
 
 ### :hammer_and_wrench: Tools 
 <div>
