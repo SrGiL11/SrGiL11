@@ -12,11 +12,11 @@ Me chamo Victor, mas podem me chamar de Gil :wink: </br>
 :house: Manaus/AM. </br>
 :birthday: Abril :aries:</br>
 :dart: Uma pessoa bastante curiosa, observadora e detalhista</br>
-:arrow_right: Iniciei na carreira em tecnologia em Novembro/2021 </br>
+:arrow_right: Iniciei carreira em tecnologia em Novembro/2021 </br>
 
 
 
-Me aventurei por vezes em codar algumas coisas, mas nada grandioso e oficial</br>
+Me aventurei por vezes em codar, mas nada grandioso e oficial</br>
 (muitas expectativas para o futuro)
 
 ### :hammer_and_wrench: Tools 
