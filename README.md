@@ -8,13 +8,16 @@
 <a href = "mailto:victorgil9501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/victorhugogil16" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-Me chamo Victor, mas podem me chamar de Gil :wink:
+Me chamo Victor, mas podem me chamar de Gil :wink: </br>
+:house: Manaus/AM. </br>
+:birthday: Abril :aries:</br>
+:dart: Uma pessoa bastante curiosa, observadora e detalhista</br>
+:arrow_right: Iniciei na carreira em tecnologia em Novembro/2021 </br>
 
-Sou de Manaus/AM. Comecei a paixão por tecnologia e programação alguns meses atrás, </br>
-sou uma pessoa curiosa (bastante) :stuck_out_tongue:
+
 
 Me aventurei por vezes em codar algumas coisas, mas nada grandioso e oficial</br>
-(muitas expectativas para o futuro) :star_struck:
+(muitas expectativas para o futuro)
 
 ### :hammer_and_wrench: Tools 
 <div>
