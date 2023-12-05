@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/user/victorhugogil16" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 <!-- pequeno texto -->
-Me chamo Victor, mas podem me chamar de Gil :wink: 
+Me chamo Victor Gil, mas podem me chamar de Gil :wink: 
 </br>
 :house: Manaus/AM 
 </br>
