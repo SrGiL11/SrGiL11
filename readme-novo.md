@@ -19,14 +19,14 @@
 
 <!-- redes sociais -->
 <div class="sociais">
-<a href = "mailto:victorgil9501@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/srgil11" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "https://twitter.com/SrGiL11" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/srgil11" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href = "mailto:victorgil9501@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/srgil11" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://instagram.com/srgil11" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href = "https://twitter.com/SrGiL11" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
 --------------------------------------
@@ -54,17 +54,19 @@
 ### :computer: Technologies
 <table>
 <tr>
+    <td style="text-align: right;">
+    <img alt="Top Langs" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgil11&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+</td>
 <td style="text-align: left; vertical-align: top;">
     <img alt="HTML5" 
         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <br>
     <img alt="CSS3" 
         src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <br>
     <img alt="JavaScript" 
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-</td>
-<td style="text-align: right;">
-    <img alt="Top Langs" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgil11&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </td>
 </tr>
 </table>
@@ -101,14 +103,6 @@
 <!-- sistemas operacionais -->
 ### :desktop_computer: Operating Systems
 <div style="display: inline_block"><br>
-    <img alt="Linux"
-        height="30px"
-        width="100px"
-        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img alt="Ubuntu"
-        height="30px"
-        width="100px"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img alt="Windows"
         height="30px"
         width="100px"
@@ -117,6 +111,14 @@
         height="30px"
         width="80px"
         src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white">
+    <img alt="Linux"
+        height="30px"
+        width="100px"
+        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Ubuntu"
+        height="30px"
+        width="100px"
+        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
 -------------------------------------
